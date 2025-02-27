@@ -29,6 +29,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run deploy`
+
+將應用程序部署到GitHub Pages。\
+此命令會先執行`npm run build`來構建應用程序，然後將`build`文件夾的內容推送到GitHub倉庫的`gh-pages`分支。
+
+部署完成後，您可以通過以下網址訪問應用程序：\
+[https://junsuwhy.github.io/travel-expense-splitter](https://junsuwhy.github.io/travel-expense-splitter)
+
+注意：確保您的package.json中已設置正確的`homepage`字段，並已安裝`gh-pages`依賴包。
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
