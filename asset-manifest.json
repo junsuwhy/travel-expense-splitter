@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/travel-expense-splitter/static/css/main.463a568e.css",
+    "main.js": "/travel-expense-splitter/static/js/main.84719e66.js",
+    "static/js/453.7925bc17.chunk.js": "/travel-expense-splitter/static/js/453.7925bc17.chunk.js",
+    "index.html": "/travel-expense-splitter/index.html",
+    "main.463a568e.css.map": "/travel-expense-splitter/static/css/main.463a568e.css.map",
+    "main.84719e66.js.map": "/travel-expense-splitter/static/js/main.84719e66.js.map",
+    "453.7925bc17.chunk.js.map": "/travel-expense-splitter/static/js/453.7925bc17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.463a568e.css",
+    "static/js/main.84719e66.js"
+  ]
+}
